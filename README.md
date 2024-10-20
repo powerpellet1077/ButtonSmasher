@@ -1,2 +1,2 @@
 # ButtonSmasher
-Tiny button smasher!
+A compact autosmasher! 
